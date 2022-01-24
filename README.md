@@ -1,4 +1,4 @@
-## Node.js Challenge: Professional README Generator ##
+# Node.js Challenge: Professional README Generator
 
   ## Table of Contents
   * [Project Description](#description)
@@ -6,6 +6,7 @@
   * [Screenshot](#screenshot)
   * [Demo](#demo)
   * [Credits](#credits)
+  * [License](#license)
   
 ## Description
  For this challenge, I was tasked with creating a command-line application that dynamically generates a professional README.md file based on the user's input
@@ -33,7 +34,6 @@ THEN I am taken to the corresponding section of the README
 ## Installation Instructions
 You must have Node.js and Inquirer installed locally. Clone the code, then begin the program by running command node index.js
 
-
 ## Screenshot
 
 ![screenshot](https://github.com/sajees89/readme-generator/blob/main/Develop/img/readme%20screenshot.png)
@@ -45,3 +45,5 @@ You must have Node.js and Inquirer installed locally. Clone the code, then begin
 - node.js
 - Inquirer
 
+## License 
+![License](https://img.shields.io/badge/License-MIT-9cf.svg)
