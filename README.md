@@ -4,6 +4,7 @@
   * [Project Description](#description)
   * [Installation Instructions](#installation)
   * [Screenshot](#screenshot)
+  * [Demo](#demo)
   * [Credits](#credits)
   
 ## Description
@@ -36,6 +37,9 @@ You must have Node.js and Inquirer installed locally. Clone the code, then begin
 ## Screenshot
 
 ![screenshot](https://github.com/sajees89/readme-generator/blob/main/Develop/img/readme%20screenshot.png)
+
+## Demo
+![Demo](https://watch.screencastify.com/v/TQpTDZnv9fd6od58Kxc7)
 
 ## Credits
 - node.js
