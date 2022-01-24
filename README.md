@@ -1,4 +1,4 @@
-
+## Node.js Challenge: Professional README Generator ##
 
   ## Table of Contents
   * [Project Description](#description)
