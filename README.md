@@ -4,8 +4,8 @@
   * [Project Description](#description)
   * [Installation Instructions](#installation)
   * [Screenshot](#screenshot)
-  * [Credits](#credits
-  *  
+  * [Credits](#credits)
+  
 ## Description
  For this challenge, I was tasked with creating a command-line application that dynamically generates a professional README.md file based on the user's input
     
