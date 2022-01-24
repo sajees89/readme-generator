@@ -39,7 +39,7 @@ You must have Node.js and Inquirer installed locally. Clone the code, then begin
 ![screenshot](https://github.com/sajees89/readme-generator/blob/main/Develop/img/readme%20screenshot.png)
 
 ## Demo
-![Demo](https://watch.screencastify.com/v/TQpTDZnv9fd6od58Kxc7)
+![watch the video](https://watch.screencastify.com/v/TQpTDZnv9fd6od58Kxc7)
 
 ## Credits
 - node.js
